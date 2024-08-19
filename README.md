@@ -1,5 +1,7 @@
 # test
-# Kwanchanok
-kwan
-# No.34
-# 48540
+# Name
+Kwanchanok
+# No.
+34
+# student ID
+48540
